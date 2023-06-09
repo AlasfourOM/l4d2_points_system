@@ -37,6 +37,4 @@ Also an old version on YouTube demonstrating this plugin
 
 Discord: AlasfourOM#6007
   
-YouTube: https://www.youtube.com/watch?v=gwwMLLvpXq0
-  
 Test Server Using This Plugin: steam://connect/l4d2storm.ddns.net
