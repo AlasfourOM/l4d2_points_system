@@ -21,20 +21,30 @@ General Features:
   
 8- For survivors, you can buy any weapon, misc items, equipments and upgrades, and there are some hidden items like antipuke medicine, to remove boomer vomit and its balanced to avoid exploits.
   
-9- Buying a gascan will show dark red glow and you won't be able to use it fill anything in any scavege maps.
+9- Buying a gascan will show dark red glow and you won't be able to use it to fill anything in any scavege maps.
   
 10- For infected, you can buy any class, spawning differen type of hordes (like riot, jimmy, fallen etc), witches, tank, toxic gas, and a car which is also a hidden item for tank.
   
 11- MySQL & SQLite supported (sm_rank to open the rank main menu, sm_top to show top players, sm_place to show your current place).
   
-12- There are many other features that you could explore it by reading the config file and exploring the cvars list.
+12- There are many other features that you could explore it by reading the config file and going through the cvars list.
   
   
 If you are interested in this plugin, you can contact me through discord.
-  
-Also an old version on YouTube demonstrating this plugin
-  
 
-Discord: AlasfourOM#6007
+Discord: `AlasfourOM#6007`
   
-Test Server Using This Plugin: steam://connect/l4d2storm.ddns.net
+Test Server Using This Plugin: `steam://connect/l4d2storm.ddns.net`
+
+
+Servers With This Plugin:
+
+`188.34.204.210:27015`
+
+`188.34.204.210:27016`
+
+`188.34.204.210:27017`
+
+`188.34.204.210:27018`
+
+`188.34.204.210:27019`
