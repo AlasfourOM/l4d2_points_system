@@ -30,12 +30,18 @@ General Features:
 12- There are many other features that you could explore it by reading the config file and going through the cvars list.
   
   
+  
+  
 If you are interested in this plugin, you can contact me through discord.
 
+  
+  
 Discord: `AlasfourOM#6007`
   
 Test Server Using This Plugin: `steam://connect/l4d2storm.ddns.net`
 
+  
+  
 
 Servers With This Plugin:
 
